@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47530560384",
+    "project_id": "food-spots-4f377",
+    "storage_bucket": "food-spots-4f377.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47530560384:android:fc7a4c0ee45fe41e874f65",
+        "android_client_info": {
+          "package_name": "com.example.food_spots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDBBF7ZTiU_ruRIyMs4bt8KGbT72lII8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
